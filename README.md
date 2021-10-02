@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnupNarvekar
-- 👀 I’m interested in Web Development, UI/UX Design, Blender 3D
+- 👀 I’m interested in Design and Software Development.
 - 🌱 I’m currently exploring various interests and figuring out my strengths. 
 
 <!---
