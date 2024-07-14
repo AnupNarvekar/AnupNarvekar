@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AnupNarvekar
-- 👀 I’m interested in Design and Software Development.
-- 🌱 I’m currently exploring my interests. 
+- 👋 Hi, I’m @AnupNarvekar, former UI/UX Designer & experienced backend developer.
+- 🌱 Currently exploring the world of web dev ❤️
 
 <!---
 AnupNarvekar/AnupNarvekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
